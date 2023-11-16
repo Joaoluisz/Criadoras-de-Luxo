@@ -87,3 +87,8 @@ main h1 span {
 main p {
     color: #fff;
 }
+
+main img {
+    height: 50px;
+    width: 50px;
+}
